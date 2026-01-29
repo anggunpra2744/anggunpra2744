@@ -1,8 +1,7 @@
 ### Hi there, I'm Anggun 👋
 
-- 🔭 I am a final-year student studying Information Systems at Airlangga University.<br>
-- 🌱 I’m most interested in learning about Software Development and Data Science <br>
-- 📫 If you want to learn more about me, don't hesitate to get in touch with my [LinkedIn](https://www.linkedin.com/in/anggun-pratiwi-silalahi-811a75200/) profile.<br>
+- 🌱 Interested in learning about Data Science, software Development, and Cybersecurity <br>
+- 📫 Get in touch with me at [LinkedIn](https://www.linkedin.com/in/anggun-pratiwi-silalahi-811a75200/).<br>
 
 ### Github Statistic
 <p align="left">
